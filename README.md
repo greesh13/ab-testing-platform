@@ -60,7 +60,19 @@ Application runs at http://localhost:3000
 
 ## Screenshots
 
-[Add screenshots here]
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Create Experiment
+![Create Experiment](screenshots/experiment.png)
+
+### Results with Statistical Analysis
+![Results Dashboard](screenshots/results.png)
+
+### Charts with Statistical Analysis
+![Charts Dashboard](screenshots/charts.png)
 
 ## License
 
